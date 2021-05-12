@@ -1,0 +1,19 @@
+
+
+  
+  .array-container {
+    position: absolute;
+    left: 50px;    /* top: 100px; */
+    right:50px;
+    top: 70px;
+    position:center;
+    background-color:rgb(56, 61, 61);
+  }
+
+  .array-bar {
+    width: 2px;
+    border-radius: 1px;
+    display: inline-block;
+    margin: 0 1px;
+    background-color:#252525;
+  }
